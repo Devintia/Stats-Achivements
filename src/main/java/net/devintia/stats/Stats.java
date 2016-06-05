@@ -7,7 +7,7 @@ public final class Stats extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        System.out.print( "Git test :)" );
         this.getServer().getPluginManager().registerEvents( this, this );
     }
 
