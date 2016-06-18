@@ -82,6 +82,11 @@
             <scope>provided</scope>
         </dependency>
 
+        <dependency>
+            <groupId>net.devintia</groupId>
+            <artifactId>db</artifactId>
+        </dependency>
+
         <!-- THESE SHOULD NOT BE HERE, BUT MAVEN TROLLS ME -->
         <dependency>
             <groupId>org.spigotmc</groupId>
