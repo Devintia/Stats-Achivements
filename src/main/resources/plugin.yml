@@ -2,3 +2,5 @@ name: Devintia_Stats-Achievements
 version: 1.2-rel5
 author: dunklesToast
 main: net.devintia.stats.Stats
+commands:
+  money:
